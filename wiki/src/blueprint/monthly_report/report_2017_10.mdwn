@@ -77,6 +77,10 @@ Past events
 
 Upcoming events
 ---------------
+* XXX: Maybe Secure OS Summit 2017 in December
+* Many Tails people will be at the
+  [34th Chaos Communication Congress, aka. 34C3](https://www.ccc.de/en/updates/2017/34C3-in-leipzig)
+  in Leipzig (December 27 to December 30).
 
 On-going discussions
 ====================
@@ -85,6 +89,8 @@ XXX: Link to the thread on <https://mailman.boum.org/pipermail/tails-XXX/>.
 
 Press and testimonials
 ======================
+
+* Tails is briefly mentioned in the Arte televions' series on philosophy. In French [[«Incognito, donc libre ?»|https://sites.arte.tv/philosophie/fr/incognito-donc-libre-yann-perreau-philosophie]], in German: [["Inkognito, also frei?"|https://sites.arte.tv/philosophie/de/inkognito-also-frei-yann-perreau-philosophie]]
 
 XXX: Copy content from press/media_appearances_2017.mdwn
      This page is continuously updated by tails-press@boum.org, so if
